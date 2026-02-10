@@ -14,3 +14,8 @@ anthropic
 httpx
 reportlab
 protobuf
+python-dotenv
+requests
+markdown-it-py
+pygments
+fpdf2
